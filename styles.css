@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  background-color: black;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}
+@font-face {
+  font-family: Minimal;
+  src: url('minimal.otf');
+}
+
+/*# sourceMappingURL=styles.css.map*/
